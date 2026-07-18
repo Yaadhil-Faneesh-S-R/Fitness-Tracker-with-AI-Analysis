@@ -1,0 +1,11 @@
+{
+    "name": "Fitness Tracker System",
+    "short_name": "FitnessTracker",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
+    "description": "A Fitness Tracker System - Software Engineering Project",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
